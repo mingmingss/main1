@@ -14,8 +14,9 @@ html, body {
 }
 #container{
     width:85%;
+    height:70%;
     background-image: url(cat.jpg);
-    background-size:auto ;
+    background-size : auto;
     float : right;
 }
 #footer{
